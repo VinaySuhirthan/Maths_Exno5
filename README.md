@@ -44,9 +44,15 @@ lu, piv = lu_factor(A)
 x = lu_solve((lu,piv),b)
 print(x)
 ```
-
 ## Output:
 ![output51](https://github.com/user-attachments/assets/7cf792de-6830-47a7-b3a2-8fc5349a4ef3)
+
+
+
+
+
+
+
 
 ![output52](https://github.com/user-attachments/assets/e27f6611-746e-45e9-88c7-e723335016e6)
 
