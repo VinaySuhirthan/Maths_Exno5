@@ -45,7 +45,7 @@ x = lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
-![output51](https://github.com/user-attachments/assets/7cf792de-6830-47a7-b3a2-8fc5349a4ef3)
+![image](https://github.com/user-attachments/assets/365945b7-6afc-4e99-8efd-3247f45f2cde)
 
 
 
@@ -54,7 +54,7 @@ print(x)
 
 
 
-![output52](https://github.com/user-attachments/assets/e27f6611-746e-45e9-88c7-e723335016e6)
+![image](https://github.com/user-attachments/assets/0332e43c-d3a8-4168-8d8a-7be7094558c6)
 
 
 ## Result:
